@@ -1,8 +1,8 @@
-<h1 align="center"> # Rohidas Jondhale 💻
+<h1 align="center"> Rohidas Jondhale 💻
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rohidas-jondhale"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+<a href="https://www.linkedin.com/in/rohidas-jondhale-7483b4192"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 <a href="https://www.instagram.com/rohii.15/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
  </a> 
 </p> 
@@ -51,26 +51,26 @@
 
 ## 🚀 Connect with me:
 <p align="center">
-<a href = "https://www.linkedin.com/in/rohidas-jondhale/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/mr.maheshwattamwar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/rohidas-jondhale-7483b4192"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/rohii.15/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
   <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=Rohii1515&color=orange">
 </a>
 </p>
  <p>
  
 <img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
   
-  ##Coding is Not Boring.🤩💝
+## Coding is Not Boring.🤩💝
 ###  Always Happy to Help!
 
   
 ### Thank You!
-Thank you so much for visiting my tiny space on [GitHub](https://github.com/Rohii1515)! :v:   
+##Thank you so much for visiting my tiny space on [GitHub](https://github.com/Rohii1515)! :v:   
  </p>
 
 <br>
@@ -83,3 +83,4 @@ Thank you so much for visiting my tiny space on [GitHub](https://github.com/Rohi
 
  </div>
  <p><img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /></p>
+ 
