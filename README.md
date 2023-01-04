@@ -32,7 +32,7 @@
       <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/doodle/50/000000/android.png"/> </a>
        </p>
        
-    ## 🚀  Tools and Technologies:
+ ## 🚀  Tools and Technologies:
 
 <p align="center"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
