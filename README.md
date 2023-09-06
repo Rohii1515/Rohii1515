@@ -15,7 +15,7 @@
  
  # Talking about Personal Stuffs:
  - 👨🏽‍💻 I’m currently working on **Full Stack Data Science and DevOps**
-- 🌱 I’m currently learning **Full Stack Data Science**, **ML**, **Big Data**, **Full-Stack-Data-Analytics** **Back-end Dev**, **Python** **Frameworks**
+- 🌱 I’m currently learning **Full Stack Data Science**, **ML**, **Big Data**, **Full-Stack-Data-Analytics**, **Back-end Dev**, **Python** **Frameworks**
 - 👯 I’m looking to collaborate on  **OpenSource Projects** & **Any idea that impresses Me.**
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/Rohii1515?tab=repositories">**Github**</a>
 - 💬 Free feel to Ask me about anything, I am Happy to Help  you ☺
