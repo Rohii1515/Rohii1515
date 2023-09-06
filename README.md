@@ -11,11 +11,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohidas</h1>
 <h3 align="center">I Enjoy Developing ideas that live on the internet, whether that be a website, application or anything related.</h3>
 
- <p>I'm Rohidas Jondhale, a Data Science Student Based in Pune ,Maharashtra. My goal is to develop products that provide performant,responsive experience. I am currently pursuing my degree from <a target="_blank" href="https://ghrcem.raisoni.net/">GHRCEM</a> Pune.  I am tech enthusiast, I love to build Full stack Application and currently focusing on MERN Stack , Java Full Stack and DevOps.  </p>
+ <p>I'm Rohidas Jondhale, a Data Science Student Based in Pune ,Maharashtra. My goal is to develop products that provide performant,responsive experience. I am currently pursuing my degree from <a target="_blank" href="https://ghrcem.raisoni.net/">GHRCEM</a> Pune.  I am tech enthusiast, I love to build Full stack Application and currently focusing on Full Stack Data Science, Big Data, Full-Stack-Data-Analytics and DevOps.  </p>
  
  # Talking about Personal Stuffs:
- - 👨🏽‍💻 I’m currently working on **Full Stack and DevOps**
-- 🌱 I’m currently learning **DevOps**, **Android**, **Frontend Design**, **MERN** **Stack**, **JAVA** **Frameworks**
+ - 👨🏽‍💻 I’m currently working on **Full Stack Data Science and DevOps**
+- 🌱 I’m currently learning **Full Stack Data Science**, **ML**, **Big Data**, **Full-Stack-Data-Analytics** **Back-end Dev**, **Python** **Frameworks**
 - 👯 I’m looking to collaborate on  **OpenSource Projects** & **Any idea that impresses Me.**
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/Rohii1515?tab=repositories">**Github**</a>
 - 💬 Free feel to Ask me about anything, I am Happy to Help  you ☺
