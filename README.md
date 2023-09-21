@@ -43,18 +43,18 @@
 </p>
 
 <!-- Add any additional animations or styles here -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Rohii1515&column=7" alt="GitHub Profile Trophy">
   </a>
 </p>
 
 
-## 🚀 Connect with me:
+<!-- ## 🚀 Connect with me:
 <p align="center">
 <a href = "https://www.linkedin.com/in/rohidas-jondhale-7483b4192"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/rohii.15/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
+</p> -->
 
 <p align="center">
   <img height="280" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
