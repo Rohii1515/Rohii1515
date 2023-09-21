@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Rohidas</h1>
 
-<p align="center">
+<!--<p align="center">
    <a> <img width="100%" height="auto" src="https://github.com/Rohii1515/Rohii1515/blob/main/2.png" height="175px"/></a>
 </p>
-
+-->
 <p align="center">
   Final Year Student pursuing BTech in Data Science<br>
   GHRCEM, Pune
